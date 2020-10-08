@@ -7,13 +7,4 @@ class Author
         @name = name
     end
 
-#    def submit_post(title, author)
-#        post = Post.new(title, self)
-#    end
-
-#    def posts
-#       Post.all.select do |post|
-#            post.author == self
-#        end
-#    end
 end
